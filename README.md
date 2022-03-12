@@ -4,9 +4,9 @@ How to configure project
 
 Step 1. Clone the Repo
 
-Step 2 yarn install
+Step 2. yarn install
 
-step 3 -> cd ios && pod install
+step 3. cd ios && pod install
 
 How to run project 
 
